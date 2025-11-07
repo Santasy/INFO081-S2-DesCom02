@@ -3,7 +3,8 @@
 ## Desarrollo Comunitario 02 - Event-Manager
 
 Este es el segundo proyecto de Desarrollo Comunitario, enmarcado en nuestro Proyecto de Programación.
-Logramos desarrollar una clase instanciable `LineaDeEventos`, la cual debe ser utilizada por su Estado de Simulación para administrar los eventos próximos y los ya ocurridos.
+
+Logramos desarrollar una clase instanciable `LineaDeEventos`, la cual debe ser utilizada por su Estado de Simulación para administrar los eventos próximos y los ya ocurridos. Para eso también deben utilizar los componentes `Evento` y `TipoEvento`.
 
 Existe un ejemplo, bastante completo, de cómo crear un primer par de estaciones, posicionar un tren, y crear un evento TREN_LLEGADA hacia la segunda estación..
 
